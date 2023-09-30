@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👩‍💻 Bem-vindo(a) ao Meu Perfil do GitHub 👨‍💻
 
-<!--
-**railacoimbragabriel/railacoimbragabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Raíla, uma estudante apaixonada por Engenharia de Computação, e este é o lugar onde compartilho minha jornada de aprendizado e exploração no mundo da tecnologia. Aqui, você encontrará projetos, códigos, e insights sobre o que estou estudando atualmente.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente, estou cursando 4° semestre na UNITAU e me concentrando em áreas como algoritmos, inteligência artificial e análise de dados
+
+## O Que Estou Estudando Agora
+
+Neste momento, estou focado(a) em:
+
+- 🌐 Análise de dados.
+- 🧠 Melhorar meus códigos.
+
+Fique à vontade para explorar meus repositórios para ver meu progresso, ou entre em contato se você estiver interessado em colaborações ou trocar ideias sobre qualquer um desses tópicos.
+
+## Entre em Contato
+
+- 📫 Você pode me contatar através do meu railacgabriel@yahoo.com para oportunidades de colaboração, dúvidas ou simplesmente para uma conversa sobre tecnologia.
+- 💬 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/raíla-coimbra-gabriel-3878a0293/) para acompanhar minhas atualizações profissionais.
+
+Agradeço por visitar meu perfil! 🌟
