@@ -4,7 +4,7 @@ Olá! Sou Raíla, uma estudante apaixonada por Engenharia de Computação, e est
 
 ## Sobre Mim
 
-- 📚 Atualmente, estou cursando 4° semestre na UNITAU e me concentrando em áreas como algoritmos, inteligência artificial e análise de dados
+- 📚 Atualmente, estou cursando 5° semestre na UNITAU e me concentrando em áreas como algoritmos, inteligência artificial e análise de dados
 
 ## O Que Estou Estudando Agora
 
